@@ -17,6 +17,11 @@
 <div align="center">  
 <a href="https://www.linkedin.com/in/breno-gabriel-897843221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
+
+<div align="center">  
+<a href="https://www.discordapp.com/users/745714881227128852" target="_blank"><img src="https://img.shields.io/badge/discord-0077B5?style=for-the-badge&logo=discord&logoColor=white"</a>
+</div> 
+ 
  
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117)&nbsp;
