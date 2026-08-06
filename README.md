@@ -19,7 +19,11 @@
 
 ### Sobre mim
 
-QA focado em automação de testes Web, Mobile e API, com experiência acompanhando qualidade em arquitetura de microsserviços — desde escrever casos de teste até construir pipelines que dão visibilidade de bugs e incidentes para o time.
+QA com foco em automação de testes e garantia de qualidade ponta a ponta em aplicações distribuídas e arquiteturas orientadas a eventos. Atuo no ciclo completo de desenvolvimento (SDLC) — validações funcionais, testes automatizados, investigação de incidentes e suporte a releases — colaborando com times de produto e engenharia para reduzir riscos e fortalecer a cultura de qualidade desde as etapas iniciais (**Shift-Left Testing**).
+
+**💼 Atualmente:** Analista de QA Jr, atuando em ambiente ágil com garantia de qualidade em aplicações de microsserviços e mensageria (Apache Kafka, Azure Service Bus), validação de integrações assíncronas, automação Web/Mobile/API e CI/CD.
+
+**🎓 Formação:** Pós-graduação em Engenharia de Software — Qualidade e Testes de Software (Anhanguera, 2026) · Graduação em Análise e Desenvolvimento de Sistemas (Anhanguera, 2022–2025)
 
 ---
 
@@ -28,12 +32,20 @@ QA focado em automação de testes Web, Mobile e API, com experiência acompanha
 ![Playwright](https://img.shields.io/badge/-Playwright-0D1117?style=for-the-badge&logo=playwright&labelColor=0D1117)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117)&nbsp;
 ![Appium](https://img.shields.io/badge/-Appium-0D1117?style=for-the-badge&logo=appium&labelColor=0D1117)&nbsp;
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-0D1117?style=for-the-badge&logo=robotframework&labelColor=0D1117)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
+
+### Arquitetura orientada a eventos e mensageria
+
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-0D1117?style=for-the-badge&logo=apachekafka&labelColor=0D1117)&nbsp;
+![Azure Service Bus](https://img.shields.io/badge/-Azure%20Service%20Bus-0D1117?style=for-the-badge&logo=microsoftazure&labelColor=0D1117)&nbsp;
+![Microservices](https://img.shields.io/badge/-Microsserviços-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Metodologia e processo
 
 ![BDD](https://img.shields.io/badge/-BDD-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![ATDD](https://img.shields.io/badge/-ATDD-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Shift-Left](https://img.shields.io/badge/-Shift--Left%20Testing-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0D1117?style=for-the-badge&logo=azuredevops&labelColor=0D1117)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&labelColor=0D1117)&nbsp;
 
