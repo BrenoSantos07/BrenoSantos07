@@ -11,9 +11,12 @@ Automação Web, Mobile e APIs · São Paulo, Brasil
 
 QA com foco em automação de testes e garantia de qualidade ponta a ponta em aplicações distribuídas e arquiteturas orientadas a eventos. Atuo no ciclo completo de desenvolvimento (SDLC) — validações funcionais, testes automatizados, investigação de incidentes e suporte a releases — colaborando com times de produto e engenharia para reduzir riscos e fortalecer a cultura de qualidade desde as etapas iniciais (**Shift-Left Testing**).
 
-**💼 Atualmente:** Analista de QA Jr, atuando em ambiente ágil com garantia de qualidade em aplicações de microsserviços e mensageria (Apache Kafka, Azure Service Bus), validação de integrações assíncronas, automação Web/Mobile/API e CI/CD.
+**💼 Atualmente:** 
+Analista de QA Jr, atuando em ambiente ágil com garantia de qualidade em aplicações de microsserviços e mensageria (Apache Kafka, Azure Service Bus), validação de integrações assíncronas, automação Web/Mobile/API e CI/CD.
 
-**🎓 Formação:** Pós-graduação em Engenharia de Software — Qualidade e Testes de Software (Anhanguera, 2026) · Graduação em Análise e Desenvolvimento de Sistemas (Anhanguera, 2022–2025)
+**🎓 Formação:** 
+Pós-graduação em Engenharia de Software — Qualidade e Testes de Software (Anhanguera, 2026) · 
+Graduação em Análise e Desenvolvimento de Sistemas (Anhanguera, 2022–2025)
 
 ---
 
