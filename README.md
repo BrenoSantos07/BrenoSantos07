@@ -16,6 +16,7 @@ Analista de QA Jr, atuando em ambiente ágil com garantia de qualidade em aplica
 
 **🎓 Formação:** 
 Pós-graduação em Engenharia de Software — Qualidade e Testes de Software (Anhanguera, 2026) · 
+
 Graduação em Análise e Desenvolvimento de Sistemas (Anhanguera, 2022–2025)
 
 ---
