@@ -1,7 +1,6 @@
 # Breno Gabriel
 
-**QA | Quality Assurance Engineer**
-Automação Web, Mobile e APIs · Osasco/SP, Brasil
+**Analista de QA · Automação Web, Mobile e APIs · Osasco/SP**
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1F3A93?style=for-the-badge&logoColor=white)](https://brenogs.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenogs/)
